@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Jessica Cox
+bio: data things
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: data things
 
 # if it's an external image, update below for true
 # better with square images
@@ -11,7 +11,7 @@ external-image: false
 picture: assets/images/profile.jpg
 
 url: http://koppl.in/indigo
-# your url: http://USERNAME.github.io
+# your url: http://jrcox.github.io
 
 permalink: /:title/
 
@@ -19,33 +19,34 @@ markdown: kramdown
 highlighter: rouge
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-80057901-1'
+
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+disqus: false
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: jessienapcox
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+linkedin: /in/jessica-cox
+#youtube: myyoutube
+#spotify: myspotify
+github: jrcox
+#medium: medium
+#vimeo: myvimeo
+email: jessicarcox13@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Jessica Cox
+        bio: data things
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
@@ -54,7 +55,7 @@ authors:
         bio: A Man who develops software with coffee
         external-image: false
         picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: jessienapcox
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -69,7 +70,7 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: true
 
 # do you want to show the "read time" of the posts?
